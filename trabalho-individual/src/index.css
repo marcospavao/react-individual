@@ -1,0 +1,21 @@
+body {
+  background-image: url("../src/image/anders-drange-_mmY9YkrmBk-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: auto;
+  padding: 10px;
+}
+
+:root {
+  padding: 0%;
+  margin: 0%;
+  justify-content: center;
+  background-position: center;
+}
+
+.text {
+  color: rgb(210, 208, 228);
+  text-align: center;
+  font-family: inherit;
+}
